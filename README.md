@@ -6,7 +6,7 @@ Dieser Simulator zeigt Verhalten einer Photovoltaikanlage als Teil eines zukünf
 * Eine kompatible Entwicklungsumgebung (z.B. Visual Studio, JetBrains Rider) und .NET 10.0.
 
 ## Starthinweise
-1. Lade die Datei von GitHub in deine Entwicklungsumgebung.
+1. Lade die Datei von GitHub in deine Entwicklungsumgebung. Außerdem findest du unter energysim1 den ordner docs, wo sich screenshots und das dev journal befinden.
 2. Starte das Programm über den Play-Button in der IDE.
 3. Die Simulation startet sofort und schreibt fortlaufend Statusdaten in die Datei `pv_log.csv`.
 
